@@ -13,14 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-The key features of a GitHub profile are:
- Personal Introduction: A brief section about who you are, what you do, and your interests. This can include your professional role, educational background, or areas of expertise.
- Skills and Technologies: Highlight the programming languages, tools, and technologies you are proficient in. This can be done through text, badges, or icons.
+Skills and Technologies: Highlight the programming languages, tools, and technologies you are proficient in. This can be done through text, badges, or icons.
  Projects and Work: Showcase your significant or favorite projects. You can include links to repositories, descriptions of what each project entails, and any notable achievements.
- GitHub Statistics: Some users include dynamic GitHub stats like their number of contributions, most used languages, or streaks. This can be done using GitHub widgets and badges.
--->
-Work in progress
 
+-->
 # Alayna Earl
 
 Hello, GitHub! 👋
@@ -29,18 +25,18 @@ I'm Alayna Earl, a student at Brigham Young University-Idaho interested in softw
 
 ## About Me
 
-- I'm currently learning ...
-- My goals are to ...
-- Ask me about ...
+- I'm currently learning designing programs using classes and functions.
+- I'm working on my Software Engineering BA.
+- My goals are to create impactful products while being home for my kids.
+- My hobbies are listening to music and hanging out with friends and family.
 
 ## Technologies and Tools
 
-- Proficient in: <List of Programming Languages or Technologies>
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+- Proficient in: Python and HTML
+- Skills: Problem solving
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](Your LinkedIn Profile Link) profile
-- Here is my [Twitter](Your Twitter Profile Link) profile
+- Here is the link to my LinkedIn profile: www.linkedin.com/in/alayna-j-earl
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
