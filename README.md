@@ -35,6 +35,10 @@ I'm Alayna Earl, a student at Brigham Young University-Idaho interested in softw
 - Proficient in: Python and HTML
 - Skills: Problem solving
 
+## My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alayn&show_icons=true)
+
 ## Let's Connect!
 
 - Here is the link to my LinkedIn profile: www.linkedin.com/in/alayna-j-earl
