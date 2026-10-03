@@ -37,7 +37,7 @@ I'm Alayna Earl, a student at Brigham Young University-Idaho interested in softw
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alayn&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=earlalay&show_icons=true)
 
 ## Let's Connect!
 
